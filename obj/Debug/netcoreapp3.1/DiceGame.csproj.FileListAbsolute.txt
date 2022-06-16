@@ -1,0 +1,26 @@
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.csprojAssemblyReference.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.exe
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.dll
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.pdb
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.dll
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.pdb
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.exe
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.dll
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\bin\Debug\netcoreapp3.1\DiceGame.pdb
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.csprojAssemblyReference.cache
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.dll
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.pdb
+D:\Data\Documents\Schoolwerk\git kk\1ste jaar\sd20-csharp-dice-assignment-rkarabicek\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache
